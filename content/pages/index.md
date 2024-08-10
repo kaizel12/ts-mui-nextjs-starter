@@ -4,7 +4,7 @@ type: Page
 sections:
   - type: HeroSection
     title: Gawr gura Bot
-    subtitle: 'Featuring TypeScript, Next.js, MUI v5 & Emotion'
+    subtitle: BOT whatsapp
     text: >
       This is the HeroSection component. You can visually edit this component &
       add more sections while developing locally. [Learn
