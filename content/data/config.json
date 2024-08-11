@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "harga menu",
+        "title": "",
         "navLinks": [
             {
                 "type": "Link",
