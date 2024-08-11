@@ -20,7 +20,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: Learn more
+            label: 2 minggu
             url: /
             size: medium
             variant: text
