@@ -60,11 +60,13 @@ sections:
             /images/Ungu Kuning Minimalis Jasa Service Komputer Instagram
             Post_20240811_111453_0000.png
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: >+
+          *   *   **igvids**: \[linknya]*   **TikTok**: \[linknya]*   **ytmp4**:
+          \[linknya]*   **playvid***   **play/play2/play3/play5**: \[query]*  
+          **googledrive***   **mediafire***   **yts***   **fbdl***  
+          **terabox***   **videydl***   **ttsong***   **ytmp33j***  
+          **tiktokslide**
+
         actions:
           - type: Button
             label: Read the Docs
