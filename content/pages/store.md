@@ -20,7 +20,7 @@ sections:
           altText: First item image
         actions:
           - type: Button
-            label: 2 minggu
+            label: 1 bulan
             url: >-
               https://wa.me/6282126446272?text=Halo,%20saya%20tertarik%20untuk%20menyewa%20bot%20gura%201_bulan
             size: medium
