@@ -25,7 +25,7 @@ sections:
 
     actions:
       - type: Button
-        label: "\U0001D5F9\U0001D5F6\U0001D600\U0001D601 \U0001D5E6\U0001D601\U0001D5FC\U0001D5FF\U0001D5F2"
+        label: "\U0001D5DF\U0001D5F6\U0001D600\U0001D601 \U0001D5E6\U0001D601\U0001D5FC\U0001D5FF\U0001D5F2"
         url: /store
         size: large
         variant: contained
