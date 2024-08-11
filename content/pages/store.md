@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: "\U0001D5DF\U0001D5DC\U0001D5E6\U0001D5E7 \U0001D5E6\U0001D5E7\U0001D5E2\U0001D5E5\U0001D5D8 \U0001D5DA\U0001D5D4\U0001D5EA\U0001D5E5 \U0001D5DA\U0001D5E8\U0001D5E5\U0001D5D4"
     subtitle: "\U0001D5D5\U0001D5E2\U0001D5E7 \U0001D5EA\U0001D5DB\U0001D5D4\U0001D5E7\U0001D5E6\U0001D5D4\U0001D5E3\U0001D5E3"
-    text: ":\n\n\n\n\U0001F4E2 **Pengumuman !** \U0001F4E2\n\nHalo semuanya! Kami dendenganSpesialdendenganSpedendenganSpesialdendendenganSpesialdendenganSpedenendenganSpedendenganSpesialdendengan bangga mengumumkan peluncuran layanan **List Premium** dan **Sewa Bot** dari GAWR Gura di WhatsApp! \U0001F389\n"
+    text: "\U0001F4E2 Pengumuman ! \U0001F4E2\n\nHalo semuanya! Kami dengan bangga mengumumkan peluncuran layanan List Premium dan Sewa Bot dari GAWR Gura di WhatsApp! \U0001F389\n"
     actions:
       - type: Button
         label: Start Building
