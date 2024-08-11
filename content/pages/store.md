@@ -45,7 +45,7 @@ sections:
             url: >-
               https://wa.me/6282126446272?text=Halo,%20saya%20tertarik%20untuk%20menyewa%20bot%20gura%205hari
             size: medium
-            variant: text
+            variant: outlined
             color: primary
       - type: Card
         title: "\U0001D5E6\U0001D5D8\U0001D5EA\U0001D5D4 \U0001D5D5\U0001D5E2\U0001D5E7 \U0001D5EA\U0001D5DB\U0001D5D4\U0001D5E7\U0001D5E6\U0001D5D4\U0001D5E3\U0001D5E3 \U0001D5E7\U0001D5E2 \U0001D5DA\U0001D5E5\U0001D5E2\U0001D5E8\U0001D5E3"
