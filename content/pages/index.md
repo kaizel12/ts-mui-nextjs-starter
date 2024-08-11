@@ -31,6 +31,12 @@ sections:
         variant: contained
         color: primary
       - type: Button
+        label: Learn more
+        url: 'https://untuksayangkujesha.netlify.app/'
+        size: medium
+        variant: text
+        color: primary
+      - type: Button
         label: Read the Docs
         url: 'https://docs.netlify.com/visual-editor/overview/'
         size: large
