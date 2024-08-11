@@ -44,7 +44,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: 'Some photo effect features '
     text: ''
     actions:
       - type: Button
