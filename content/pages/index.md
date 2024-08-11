@@ -65,7 +65,7 @@ sections:
             url: 'https://kazamistore.netlify.app/'
             size: medium
             variant: outlined
-            color: secondary
+            color: primary
       - type: Card
         title: "\U0001D5F0\U0001D5F2\U0001D5F8\U0001D5F8\U0001D5FC\U0001D5F1\U0001D5EE\U0001D5FA"
         image:
