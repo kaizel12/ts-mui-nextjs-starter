@@ -27,7 +27,7 @@ sections:
             variant: outlined
             color: primary
           - type: Button
-            label: 'satu bulan '
+            label: 2 minggu
             url: >-
               https://wa.me/6282126446272?text=Halo,%20saya%20tertarik%20untuk%20menyewa%20bot%20gura%202minggu
             size: medium
