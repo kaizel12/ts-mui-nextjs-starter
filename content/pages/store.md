@@ -3,7 +3,7 @@ type: Page
 title: ''
 sections:
   - type: HeroSection
-    title: ''
+    title: "\U0001D5DF\U0001D5DC\U0001D5E6\U0001D5E7 \U0001D5E6\U0001D5E7\U0001D5E2\U0001D5E5\U0001D5D8 \U0001D5DA\U0001D5D4\U0001D5EA\U0001D5E5 \U0001D5DA\U0001D5E8\U0001D5E5\U0001D5D4"
     subtitle: The section subtitle
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
