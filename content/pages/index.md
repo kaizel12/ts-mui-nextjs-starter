@@ -61,8 +61,7 @@ sections:
             Post_20240811_111453_0000.png
           altText: First item image
         text: |+
-          *
-              *   *   **TikTok**: \[linknya]*   **ytmp4**: \[linknya]*   **playvid***   **play/play2/play3/play5**: \[query]*   **googledrive***   **mediafire***   **yts***   **fbdl***   **terabox***   **videydl***   **ttsong***   **ytmp33j***   **tiktokslide**
+
 
         actions:
           - type: Button
