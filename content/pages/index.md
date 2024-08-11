@@ -24,7 +24,9 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: >-
+        /images/Black Yellow Graffiti General Twitch
+        Banner_20240806_210038_0000.png
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
