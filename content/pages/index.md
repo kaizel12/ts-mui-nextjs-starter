@@ -25,16 +25,10 @@ sections:
 
     actions:
       - type: Button
-        label: Start Building
-        url: 'https://untuksayangkujesha.netlify.app/'
+        label: store
+        url: /store
         size: large
         variant: contained
-        color: primary
-      - type: Button
-        label: Learn more
-        url: 'https://untuksayangkujesha.netlify.app/'
-        size: medium
-        variant: text
         color: primary
       - type: Button
         label: Read the Docs
@@ -50,7 +44,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: "\U0001D5FD\U0001D5FF\U0001D5FC\U0001D5F7\U0001D5F2\U0001D5F0\U0001D601\U0001D5F0"
-    subtitle: Section subtitle here
+    subtitle: ''
     items:
       - type: Card
         title: "\U0001D5EA\U0001D5F2\U0001D5EF\U0001D600\U0001D5F6\U0001D601\U0001D5F2 \U0001D600\U0001D601\U0001D5FC\U0001D5FF\U0001D5F2"
