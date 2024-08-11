@@ -82,7 +82,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://khodamcek.netlify.app/'
       - type: Card
         title: Third Card Title
         image:
