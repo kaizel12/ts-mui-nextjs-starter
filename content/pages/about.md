@@ -7,7 +7,7 @@ sections:
     subtitle: This is the subtitle
     text: ''
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: ''
     subtitle: ''
     text: ''
     actions: []
