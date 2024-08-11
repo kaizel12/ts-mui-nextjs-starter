@@ -32,6 +32,12 @@ sections:
         color: primary
       - type: Button
         label: Learn more
+        url: 'https://create.netlify.com/studio/66b75c331ce14c00c3902574#/store'
+        size: medium
+        variant: text
+        color: primary
+      - type: Button
+        label: Learn more
         url: 'https://untuksayangkujesha.netlify.app/'
         size: medium
         variant: text
