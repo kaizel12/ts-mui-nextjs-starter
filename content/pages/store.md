@@ -46,7 +46,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: ''
+        title: "\U0001D5DD\U0001D5D4\U0001D5D7\U0001D5DC \U0001D5D5\U0001D5E2\U0001D5E7"
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
