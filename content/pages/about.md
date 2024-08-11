@@ -10,13 +10,7 @@ sections:
     title: This Is A Big Hero Headline
     subtitle: ''
     text: ''
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/IMG_20240811_190950.jpg
