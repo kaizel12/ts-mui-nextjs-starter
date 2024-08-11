@@ -13,7 +13,7 @@ sections:
     items:
       - type: Card
         title: "\U0001D5E3\U0001D5E5\U0001D5D8\U0001D5E0\U0001D5DC\U0001D5E8\U0001D5E0"
-        text: "\U0001FAAA **Keuntungan Upgrade ke Premium:**\n• Bebas akses fitur streaming\n• Tanpa batas menggunakan bot\n• Bebas menggunakan text-to-img sepuasnya\n• Akses voice cover AI\n• Akses semua fitur downloader\n• Akses semua web anime downloader\n• 70+ fitur ppremiumremium lainnyalainnya\n"
+        text: "\U0001FAAA **Keuntungan Upgrade ke Premium:**\n• Bebas akses fitur streaming\n\n• Tanpa batas menggunakan bot\n\n• Bebas menggunakan text-to-img sepuasnya\n\n• Akses voice cover AI\n\n• Akses semua fitur downloader\n\n• Akses semua web anime downloader\n\n• 70+ fitur premium \U0001D5F9\U0001D5EE\U0001D5F6\U0001D5FB\U0001D5FB\U0001D606\U0001D5EE\n\n\U0001D7ED \U0001D5EF\U0001D602\U0001D5F9\U0001D5EE\U0001D5FB = \U0001D7ED\U0001D7F1\U0001D5F8\n\U0001D7EE \U0001D5FA\U0001D5F6\U0001D5FB\U0001D5F4\U0001D5F4\U0001D602 = \U0001D7F4\U0001D5F8\n\U0001D7ED \U0001D5FA\U0001D5F6\U0001D5FB\U0001D5F4\U0001D5F4\U0001D602 = \U0001D7F1\U0001D5F8\n"
         image:
           type: Image
           url: /images/nextjs.svg
