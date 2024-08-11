@@ -16,7 +16,7 @@ sections:
       url: /images/IMG_20240811_190950.jpg
       altText: Hero section
   - type: HeroSection
-    title: This Is A Big Hero Headline
+    title: ''
     subtitle: ''
     text: ''
     actions: []
