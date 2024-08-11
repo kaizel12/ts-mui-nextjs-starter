@@ -32,7 +32,7 @@ sections:
         color: primary
       - type: Button
         label: Read the Docs
-        url: /about
+        url: 'https://botwebsto.netlify.app/about'
         size: large
         variant: outlined
         color: primary
