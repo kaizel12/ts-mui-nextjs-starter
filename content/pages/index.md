@@ -26,7 +26,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: 'https://untuksayangkujesha.netlify.app/'
+        url: /store
         size: large
         variant: contained
         color: primary
