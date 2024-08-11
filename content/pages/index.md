@@ -6,9 +6,7 @@ sections:
     title: Gawr gura Bot
     subtitle: BOT WhatsApp Multi Media
     text: >
-      ThisThis is the HeroSectiHeroSectionon component. You can visually edit
-      this component & add more sections while developing locally. [Learn
-      more](https://docs.netlify.com/visual-editor/local-development/)GuraBotialahsebuahbotyangsudahbanyakdilengkapifituruntukmembantubotmembantuparapenggunadonwloadpenggunapenggunamembantudonwlpenggupenggunaanatarantaralainialahdonwloadergameinformasiialaAIArtifiArtificiadanAi
+      GuraBotialahsebuahbotyangsudahbanyakdilengkapifituruntukmembantubotmembantuparapenggunadonwloadpenggunapenggunamembantudonwlpenggupenggunaanatarantaralainialahdonwloadergameinformasiialaAIArtifiArtificiadanAi
     actions:
       - type: Button
         label: Start Building
