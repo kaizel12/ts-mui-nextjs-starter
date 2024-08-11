@@ -31,6 +31,6 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/Screenshot_2024-08-11-19-16-41-799_com.whatsapp.w4b-edit.jpg
       altText: Hero section image
 ---
