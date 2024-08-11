@@ -49,52 +49,43 @@ sections:
         Banner_20240806_210038_0000.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: "\U0001D5FD\U0001D5FF\U0001D5FC\U0001D5F7\U0001D5F2\U0001D5F0\U0001D601\U0001D5F0"
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: "\U0001D5EA\U0001D5F2\U0001D5EF\U0001D600\U0001D5F6\U0001D601\U0001D5F2 \U0001D600\U0001D601\U0001D5FC\U0001D5FF\U0001D5F2"
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/IMG_20240811_113341.jpg
           altText: First item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "\n\n\U0001D600\U0001D5F6\U0001D5FA\U0001D5FD\U0001D5F9\U0001D5F2 \U0001D604\U0001D5F2\U0001D5EF\U0001D600\U0001D5F6\U0001D601\U0001D5F2 \U0001D600\U0001D601\U0001D5FC\U0001D5FF\U0001D5F2 \U0001D606\U0001D5EE\U0001D5FB\U0001D5F4 \U0001D5F1\U0001D5F6 \U0001D5EF\U0001D602\U0001D5EE\U0001D601 \U0001D5FD\U0001D5EE\U0001D5F1\U0001D5EE \U0001D601\U0001D5EE\U0001D5FB\U0001D5F4\U0001D5F4\U0001D5EE\U0001D5F9 \U0001D7EE\U0001D7F4 \U0001D5DD\U0001D602\U0001D5FB\U0001D5F6 \U0001D7EE\U0001D7EC\U0001D7EE\U0001D7F0\n\n\U0001D604\U0001D5F2\U0001D5EF \U0001D606\U0001D5EE\U0001D5FB\U0001D5F4 \U0001D5EF\U0001D5F2\U0001D5FF\U0001D5F6\U0001D600\U0001D5F6\U0001D5F8\U0001D5EE\U0001D5FB \U0001D601\U0001D5F2\U0001D5FB\U0001D601\U0001D5EE\U0001D5FB\U0001D5F4 \U0001D600\U0001D601\U0001D5FC\U0001D5FF\U0001D5F2 \U0001D5EF\U0001D5FC\U0001D601\n"
         actions:
           - type: Button
-            label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            label: "\U0001D5FF\U0001D5F2\U0001D5EE\U0001D5F1 \U0001D601\U0001D5FC \U0001D5F1\U0001D5FC\U0001D5F0"
+            url: 'https://kazamistore.netlify.app/'
+            size: medium
+            variant: outlined
+            color: primary
       - type: Card
-        title: Second Card Title
+        title: "\U0001D5F0\U0001D5F2\U0001D5F8\U0001D5F8\U0001D5FC\U0001D5F1\U0001D5EE\U0001D5FA"
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/IMG_20240811_120823.jpg
           altText: Second item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "\U0001D604\U0001D5F2\U0001D5EF\U0001D600\U0001D5F6\U0001D601\U0001D5F2 \U0001D606\U0001D5EE\U0001D5FB\U0001D5F4 \U0001D600\U0001D5EE\U0001D606\U0001D5EE \U0001D5EF\U0001D602\U0001D5EE\U0001D601 \U0001D5F1\U0001D5F6 \U0001D5F8\U0001D5EE\U0001D5FF\U0001D5F2\U0001D5FB\U0001D5EE\U0001D5F8\U0001D5EE\U0001D5FB \U0001D601\U0001D5FF\U0001D5F2\U0001D5FB\U0001D5F1 \U0001D601\U0001D5FF\U0001D5F2\U0001D5FB\U0001D5F1 \U0001D5F0\U0001D5F2\U0001D5F8 \U0001D5F8\U0001D5FC\U0001D5F1\U0001D5EE\U0001D5FA \U0001D5FD\U0001D5EE\U0001D5F1\U0001D5EE \U0001D601\U0001D5EE\U0001D5FB\U0001D5F4\U0001D5F4\U0001D5EE\U0001D5F9 \U0001D7ED\U0001D7EC \U0001D5DD\U0001D602\U0001D5F9\U0001D5F6 \U0001D7EE\U0001D7EC\U0001D7EE\U0001D7F0\n"
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://khodamcek.netlify.app/'
       - type: Card
-        title: Third Card Title
+        title: "\U0001D5E7\U0001D5F6\U0001D5F8\U0001D601\U0001D5FC\U0001D5F8 \U0001D5F1\U0001D5FC\U0001D5FB\U0001D604\U0001D5F9\U0001D5FC\U0001D5EE\U0001D5F1\U0001D5F2\U0001D5FF"
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/IMG_20240811_131552.jpg
           altText: Third item image
-        text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+        text: "\U0001D604\U0001D5F2\U0001D5EF\U0001D600\U0001D5F6\U0001D601\U0001D5F2 \U0001D5F1\U0001D5FC\U0001D5FB\U0001D604\U0001D5F9\U0001D5FC\U0001D5EE\U0001D5F1\U0001D5F2\U0001D5FF \U0001D603\U0001D5F6\U0001D5F1\U0001D5F2\U0001D5FC \U0001D601\U0001D5F6\U0001D5F8\U0001D601\U0001D5FC\U0001D5F8 \U0001D606\U0001D5EE\U0001D5FB\U0001D5F4 \U0001D600\U0001D602\U0001D5F1\U0001D5EE\U0001D5F5 \U0001D600\U0001D602\U0001D5FD\U0001D5FD\U0001D5FC\U0001D5FF\U0001D601 \U0001D5FA\U0001D5F2\U0001D5FB\U0001D5F1\U0001D5FC\U0001D604\U0001D5FB\U0001D5F9\U0001D5FC\U0001D5EE\U0001D5F1 \U0001D5EE\U0001D602\U0001D5F1\U0001D5F6\U0001D5FC \U0001D5F7\U0001D602\U0001D5F4\U0001D5EE\n"
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://downloa.netlify.app/'
 ---
