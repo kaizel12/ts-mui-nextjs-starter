@@ -15,6 +15,13 @@
                 "label": "About",
                 "url": "/about",
                 "underline": "hover"
+            },
+            {
+                "type": "Link",
+                "label": "store",
+                "url": "/store",
+                "underline": "always",
+                "color": "primary"
             }
         ]
     },
