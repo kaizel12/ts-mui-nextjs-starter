@@ -20,7 +20,7 @@
                 "type": "Link",
                 "label": "store",
                 "url": "/store",
-                "underline": "always",
+                "underline": "none",
                 "color": "secondary"
             }
         ]
