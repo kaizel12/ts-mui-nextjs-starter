@@ -56,9 +56,7 @@ sections:
         title: "\U0001D5FA\U0001D5F2\U0001D5FB\U0001D602 \U0001D5F1\U0001D5FC\U0001D5FB\U0001D604\U0001D5F9\U0001D5FC\U0001D5EE\U0001D5F1\U0001D5F2\U0001D5FF"
         image:
           type: Image
-          url: >-
-            /images/Ungu Kuning Minimalis Jasa Service Komputer Instagram
-            Post_20240811_111453_0000.png
+          url: /images/IMG_20240811_113341.jpg
           altText: First item image
         text: >+
           *   *   **igvids**: \[linknya]*   **TikTok**: \[linknya]*   **ytmp4**:
