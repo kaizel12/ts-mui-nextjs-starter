@@ -26,5 +26,5 @@ sections:
     image:
       type: Image
       url: /images/hero.svg
-      altText: Hero section image
+      altText: Hero section
 ---
