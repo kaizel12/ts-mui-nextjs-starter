@@ -26,7 +26,7 @@ sections:
     actions:
       - type: Button
         label: Start Building
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://untuksayangkujesha.netlify.app/'
         size: large
         variant: contained
         color: primary
