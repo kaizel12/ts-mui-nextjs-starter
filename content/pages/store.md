@@ -12,7 +12,7 @@ sections:
     subtitle: ''
     items:
       - type: Card
-        title: First Item Title
+        title: "\U0001D5E3\U0001D5E5\U0001D5D8\U0001D5E0\U0001D5DC\U0001D5E8\U0001D5E0"
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
