@@ -29,7 +29,7 @@ sections:
             variant: text
             color: primary
       - type: Card
-        title: Second Item Title
+        title: "\U0001D5E6\U0001D5D8\U0001D5EA\U0001D5D4 \U0001D5D5\U0001D5E2\U0001D5E7 \U0001D5EA\U0001D5DB\U0001D5D4\U0001D5E7\U0001D5E6\U0001D5D4\U0001D5E3\U0001D5E3 \U0001D5E7\U0001D5E2 \U0001D5DA\U0001D5E5\U0001D5E2\U0001D5E8\U0001D5E3"
         text: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
           lorem, tincidunt ac leo efficitur, feugiat tempor odio. Maecenas
