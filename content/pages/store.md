@@ -81,6 +81,6 @@ sections:
             url: >-
               https://wa.me/6282126446272?text=Halo,%20saya%20tertarik%20untuk%20menyewa%20bot%20gura%205hari
             size: medium
-            variant: text
+            variant: outlined
             color: primary
 ---
