@@ -1,6 +1,6 @@
 ---
 type: Page
-title: HARGA MENU
+title: ''
 sections:
   - type: HeroSection
     title: This is a Big Hero Headline
