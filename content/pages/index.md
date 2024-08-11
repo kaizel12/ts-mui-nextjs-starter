@@ -53,7 +53,7 @@ sections:
     subtitle: Section subtitle here
     items:
       - type: Card
-        title: First Card Title
+        title: ''
         image:
           type: Image
           url: >-
