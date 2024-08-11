@@ -49,7 +49,7 @@ sections:
         Banner_20240806_210038_0000.png
       altText: Hero section image
   - type: CardsSection
-    title: Cards Section Component
+    title: "\U0001D5FD"
     subtitle: Section subtitle here
     items:
       - type: Card
