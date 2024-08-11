@@ -76,4 +76,11 @@ sections:
             size: medium
             variant: outlined
             color: primary
+          - type: Button
+            label: 5 hari sewa
+            url: >-
+              https://wa.me/6282126446272?text=Halo,%20saya%20tertarik%20untuk%20menyewa%20bot%20gura%205hari
+            size: medium
+            variant: text
+            color: primary
 ---
