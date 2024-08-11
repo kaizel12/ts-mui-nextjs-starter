@@ -32,7 +32,7 @@ sections:
         color: primary
       - type: Button
         label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
+        url: /about
         size: large
         variant: outlined
         color: primary
