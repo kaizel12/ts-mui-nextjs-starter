@@ -72,7 +72,7 @@ sections:
             label: Read the Docs
             url: 'https://khodamcek.netlify.app/'
       - type: Card
-        title: Third Card Title
+        title: "\U0001D5E7\U0001D5F6\U0001D5F8\U0001D601\U0001D5FC\U0001D5F8 \U0001D5F1\U0001D5FC\U0001D5FB\U0001D604\U0001D5F9\U0001D5FC\U0001D5EE\U0001D5F1\U0001D5F2\U0001D5FF"
         image:
           type: Image
           url: /images/IMG_20240811_131552.jpg
