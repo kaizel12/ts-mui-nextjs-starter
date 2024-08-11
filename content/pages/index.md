@@ -5,8 +5,24 @@ sections:
   - type: HeroSection
     title: Gawr gura Bot
     subtitle: BOT WhatsApp Multi Media
-    text: >
-      GuraBotialahsebuahbotyangsudahbanyakdilengkapifituruntukmembantubotmembantuparapenggunadonwloadpenggunapenggunamembantudonwlpenggupenggunaanatarantaralainialahdonwloadergameinformasiialaAIArtifiArtificiadanAi
+    text: >+
+      GuraBot adalah sebuah bot yang sudah dilengkapi dengan banyak fitur untuk
+      membantu para penggunanya. Bot ini dapat membantu dalam berbagai hal,
+      termasuk mendownload file, game, dan informasi lainnya. Beberapa fitur
+      utamanya meliputi:
+
+
+      *   Downloader
+
+
+      *   Game
+
+
+      *   Informasi
+
+
+      *   AI (Kecerdasan BuatanBuatan
+
     actions:
       - type: Button
         label: Start Building
