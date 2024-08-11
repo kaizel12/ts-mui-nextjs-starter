@@ -82,10 +82,4 @@ sections:
           - type: Button
             label: Read the Docs
             url: 'https://docs.netlify.com/visual-editor/overview/'
-          - type: Button
-            label: Learn more
-            url: 'https://downloa.netlify.app/'
-            size: medium
-            variant: text
-            color: primary
 ---
