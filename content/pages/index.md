@@ -62,7 +62,7 @@ sections:
           altText: First item image
         text: |+
           *
-              *   \<div style="text-align: left">**igvids**: \[linknya]\*   **TikTok**: \[linknya]\*   **ytmp4**: \[linknya]\*   **playvid**\*   **play/play2/play3/play5**: \[query]\*   **googledrive**\*   **mediafire**\*   **yts**\*   **fbdl**\*   **terabox**\*   **videydl**\*   **ttsong**\*   **ytmp33j**\*   **tiktokslide**\</div>
+              *   *   **TikTok**: \[linknya]*   **ytmp4**: \[linknya]*   **playvid***   **play/play2/play3/play5**: \[query]*   **googledrive***   **mediafire***   **yts***   **fbdl***   **terabox***   **videydl***   **ttsong***   **ytmp33j***   **tiktokslide**
 
         actions:
           - type: Button
