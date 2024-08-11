@@ -21,9 +21,9 @@ sections:
         actions:
           - type: Button
             label: 2 minggu
-            url: /
+            url: ''
             size: medium
-            variant: text
+            variant: outlined
             color: primary
           - type: Button
             label: 'satu bulan '
