@@ -56,7 +56,9 @@ sections:
         title: First Card Title
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: >-
+            /images/Ungu Kuning Minimalis Jasa Service Komputer Instagram
+            Post_20240811_111453_0000.png
           altText: First item image
         text: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
