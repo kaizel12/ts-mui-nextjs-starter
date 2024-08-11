@@ -26,7 +26,7 @@ sections:
       altText: Hero section image
   - type: HeroSection
     title: This Is A Big Hero Headline
-    subtitle: The section subtitle
+    subtitle: ''
     text: ''
     actions: []
     image:
